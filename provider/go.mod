@@ -12,5 +12,5 @@ require (
 
 replace (
 	github.com/hashicorp/go-getter v1.5.0 => github.com/hashicorp/go-getter v1.4.0
-	github.com/terraform-providers/terraform-provider-mysql => github.com/pulumi/terraform-provider-mysql v1.9.1-0.20200902192533-20f24655e960
+	github.com/terraform-providers/terraform-provider-mysql => github.com/joesonw/terraform-provider-mysql v1.9.1-0.20210621041132-ab77ee518821
 )
